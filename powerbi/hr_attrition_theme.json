@@ -1,0 +1,8 @@
+{
+  "name": "HR Attrition Analytics",
+  "dataColors": ["#1a1a2e", "#e94560", "#0f9b58", "#f5a623", "#3d5a80", "#98c1d9"],
+  "background": "#f8f9fa",
+  "foreground": "#1a1a2e",
+  "tableAccent": "#e94560"
+}
+
